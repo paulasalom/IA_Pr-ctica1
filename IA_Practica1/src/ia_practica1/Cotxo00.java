@@ -23,7 +23,7 @@ public class Cotxo00 extends Agent {
     static final int COTXE = 1;
     
     int VELOCITATTOPE = 5;
-    int VELOCITATFRE = 3;
+    int VELOCITATFRE = 4;
 
     Estat estat;
     int espera = 0;
